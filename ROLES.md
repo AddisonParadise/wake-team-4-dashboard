@@ -39,7 +39,7 @@ One row per person. The same role may appear on more than one row.
 |---|---|---|
 | Addison | AddisonParadise | Delivery Lead (The Captain) |
 | Leah Fisher | Leahfish | Design Lead (The Artist) |
-| Alex Thompson | alexthompson-byte | Strategist |
+| Alex Thompson | alexthompson-byte | Spec Lead (The Strategist) |
 | Dane Stewart | dane-stewart | The Engineer |
 
 ## Side quests
