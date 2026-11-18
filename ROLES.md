@@ -37,12 +37,8 @@ One row per person. The same role may appear on more than one row.
 
 | Name | GitHub username | Role |
 |---|---|---|
-<<<<<<< Updated upstream
-| Leah Fisher | leahfishy | Design Lead (The Artist) |
-| Alex Thompson | alexthompson-byte | Strategist |
-=======
 | Leah Fisher | Leahfish | Design Lead (The Artist) |
->>>>>>> Stashed changes
+| Alex Thompson | alexthompson-byte | Strategist |
 
 ## Side quests
 
