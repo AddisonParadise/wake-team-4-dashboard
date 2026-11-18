@@ -48,4 +48,4 @@ One row for each role nobody above holds. Leave empty if every role is held.
 
 | Role | Held by (GitHub username) |
 |---|---|
-| | |
+| Pitch Lead | dane-stewart |
